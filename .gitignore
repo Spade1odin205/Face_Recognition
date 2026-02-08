@@ -1,0 +1,20 @@
+# Large files
+*.zip
+*.mp4
+*.avi
+*.mkv
+.jpg
+
+
+# Cache
+__pycache__/
+*.log
+
+# Environment files
+.venv/
+.vscode/
+env/
+
+#another file
+*.docx
+*.pdf
